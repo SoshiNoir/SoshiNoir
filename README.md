@@ -3,7 +3,7 @@
 - 🌱 Estudando React e Typescript
 
 <div align="center">
-  <a href="https://github.com/SoshiNoir">
+  <a href="https://github.com/SoshiNoir"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoshiNoir&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoshiNoir&layout=compact&langs_count=7&theme=omni"/>
 </div>
@@ -24,5 +24,6 @@
   <a href = "mailto:contatososhinoir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguel-matias-soshi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   ![Snake animation](https://github.com/soshinoir/soshinoir/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/soshinoir/soshinoir/output/github-contribution-grid-snake.svg)
+
 </div>
